@@ -1,0 +1,40 @@
+body{
+	align:center;
+	background-color:pink;
+	
+	font-size:22px;
+	
+}
+table,tr,td{
+	border-collapse:collapse;
+	border:3px solid;
+	padding:4px 8px;
+	
+}
+input[type=text]{
+	font-size:15px;
+	padding:8px 22px;
+	border-radius:20px;
+}
+input[type=button]{
+	font-size:20px;
+	padding:8px 22px;
+	border-radius:25px;
+	background-color:springgreen;
+	color:red;
+}
+input[type=total]{
+	font-size:15px;
+	padding:8px 20px;
+	border-radius:20px;
+}
+input[type=avg]{
+	font-size:15px;
+	padding:8px 20px;
+	border-radius:20px;
+}
+input[type=grade]{
+	font-size:15px;
+	padding:8px 20px;
+	border-radius:20px;
+}
